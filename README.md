@@ -33,5 +33,5 @@ If you have any ideas to make it more interesting, please submit a pull request 
 
 ### [MIT](LICENSE)
 
-> Github [@fajarghifar](https://github.com/SujanVulasala) &nbsp;&middot;&nbsp;
-> Linkedin [@fajarghifar](https://www.linkedin.com/in/sujan-vulasala-03may2005/)
+> Github [@SujanVulasala](https://github.com/SujanVulasala) &nbsp;&middot;&nbsp;
+> Linkedin [@SujanVulasala](https://www.linkedin.com/in/sujan-vulasala-03may2005/)
